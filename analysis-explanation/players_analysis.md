@@ -1,0 +1,1 @@
+The average number of games the players participated in was 50.

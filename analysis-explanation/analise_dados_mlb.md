@@ -1,3 +1,8 @@
+## Initial data analysis
+
+During this initial stage, the focus was on studying what was being analyzed—in this case, the features—by developing a numerical and behavioral summary of those features. Additionally, the data format was analyzed to identify outliers, trends, natural groups, patterns, and correlations.
+
+
 ### Choosing the best offencive player
 
 I used the steps below:
