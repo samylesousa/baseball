@@ -2,8 +2,11 @@
 
 ## General Information
 Number of players: **35**
+
 2010 Championship Position: **4th place** in the American League Central Division (AL Central)
+
 Best player: **S Choo**
+
 Worst player: **H Ambriz**
 
 ### Distribution of positions among the players
